@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>	
+	<monster name="Chicken" file="monsters/chicken.xml" />
+	<monster name="Pig" file="monsters/pig.xml" />	
+	<monster name="Rat [1]" file="monsters/rat.xml" />
+	<monster name="Rat [2]" file="monsters/rat2.xml" />
+	<monster name="Bat [3]" file="monsters/bat.xml" />
+	<monster name="Bug [5]" file="monsters/bug.xml" />
+	<monster name="Cave Rat [3]" file="monsters/cave_rat.xml" />	
+	<monster name="Rotworm [10]" file="monsters/rotworm.xml" />
+	<monster name="Rotworm [12]" file="monsters/rotworm2.xml" />
+	<monster name="Rotworm [14]" file="monsters/rotworm3.xml" />
+	<monster name="Carrion Worm [15]" file="monsters/carrion_worm.xml" />	
+</monsters>
