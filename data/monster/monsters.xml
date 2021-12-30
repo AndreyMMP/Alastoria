@@ -5,7 +5,11 @@
 	<monster name="Rat [1]" file="monsters/rat.xml" />
 	<monster name="Rat [2]" file="monsters/rat2.xml" />
 	<monster name="Bat [3]" file="monsters/bat.xml" />
+	<!-- BUG -->
 	<monster name="Bug [5]" file="monsters/bug.xml" />
+	<monster name="Bug [6]" file="monsters/bug6.xml" />
+	<monster name="Bug [7]" file="monsters/bug7.xml" />
+	<monster name="Bug [8]" file="monsters/bug8.xml" />
 	<monster name="Cave Rat [3]" file="monsters/cave_rat.xml" />	
 	<monster name="Rotworm [10]" file="monsters/rotworm.xml" />
 	<monster name="Rotworm [12]" file="monsters/rotworm2.xml" />
