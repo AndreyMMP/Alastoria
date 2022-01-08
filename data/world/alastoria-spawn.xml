@@ -1,5 +1,14 @@
 <?xml version="1.0"?>
 <spawns>
+	<spawn centerx="1088" centery="1018" centerz="6" radius="2">
+		<npc name="Zurir" x="1" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1076" centery="952" centerz="7" radius="2">
+		<npc name="Balmur" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1104" centery="981" centerz="7" radius="2">
+		<npc name="Kizzie" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="943" centery="1001" centerz="7" radius="2">
 		<monster name="Pig" x="2" y="-2" z="7" spawntime="60" />
 		<monster name="Pig" x="-2" y="1" z="7" spawntime="60" />
@@ -8,6 +17,9 @@
 		<monster name="Chicken" x="1" y="-2" z="7" spawntime="60" />
 		<monster name="Chicken" x="-2" y="1" z="7" spawntime="60" />
 		<monster name="Chicken" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="948" centery="1011" centerz="7" radius="2">
+		<npc name="Amisha" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1029" centery="1019" centerz="7" radius="1">
 		<npc name="Andrei" x="0" y="-1" z="7" spawntime="60" />
@@ -105,6 +117,71 @@
 	<spawn centerx="987" centery="1047" centerz="8" radius="1">
 		<monster name="Rat [1]" x="-1" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1105" centery="1052" centerz="8" radius="7">
+		<monster name="Cyclops [25]" x="-1" y="-3" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="4" y="2" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="-1" y="7" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="1056" centerz="8" radius="4">
+		<monster name="Cyclops Smith [35]" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1134" centery="1064" centerz="8" radius="4">
+		<monster name="Cyclops Drone [30]" x="0" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1142" centery="1067" centerz="8" radius="4">
+		<monster name="Cyclops [29]" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1102" centery="1068" centerz="8" radius="8">
+		<monster name="Cyclops [25]" x="-6" y="-2" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="6" y="6" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1071" centerz="8" radius="7">
+		<monster name="Cyclops [27]" x="-3" y="-4" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="1071" centerz="8" radius="4">
+		<monster name="Cyclops [25]" x="2" y="-2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1072" centerz="8" radius="4">
+		<monster name="Cyclops [25]" x="-1" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1138" centery="1078" centerz="8" radius="7">
+		<monster name="Cyclops [29]" x="0" y="-4" z="8" spawntime="60" />
+		<monster name="Cyclops [27]" x="-6" y="0" z="8" spawntime="60" />
+		<monster name="Cyclops [27]" x="2" y="5" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1124" centery="1084" centerz="8" radius="6">
+		<monster name="Koi The Ruthless [50]" x="-2" y="-3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1086" centery="1086" centerz="8" radius="7">
+		<monster name="Cyclops [27]" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Cyclops [29]" x="6" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1104" centery="1087" centerz="8" radius="10">
+		<monster name="Cyclops [27]" x="-9" y="-9" z="8" spawntime="60" />
+		<monster name="Cyclops [27]" x="8" y="-7" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="0" y="-6" z="8" spawntime="60" />
+		<monster name="Cyclops [25]" x="9" y="1" z="8" spawntime="60" />
+		<monster name="Cyclops Drone [30]" x="-5" y="4" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="1089" centerz="8" radius="3">
+		<monster name="Cyclops [27]" x="1" y="-1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1136" centery="1093" centerz="8" radius="7">
+		<monster name="Cyclops [29]" x="4" y="0" z="8" spawntime="60" />
+		<monster name="Cyclops [29]" x="-7" y="4" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="1094" centerz="8" radius="7">
+		<monster name="Cyclops [27]" x="-2" y="-1" z="8" spawntime="60" />
+		<monster name="Cyclops [29]" x="-5" y="6" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1100" centery="1102" centerz="8" radius="4">
+		<monster name="Cyclops [29]" x="2" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="1102" centerz="8" radius="4">
+		<monster name="Cyclops [27]" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="1007" centery="957" centerz="9" radius="4">
 		<monster name="Bug [7]" x="-2" y="-1" z="9" spawntime="60" />
 		<monster name="Bug [7]" x="2" y="3" z="9" spawntime="60" />
@@ -154,5 +231,23 @@
 	<spawn centerx="961" centery="998" centerz="9" radius="4">
 		<monster name="Rotworm [10]" x="-3" y="-2" z="9" spawntime="60" />
 		<monster name="Rotworm [12]" x="2" y="2" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="1064" centerz="9" radius="7">
+		<monster name="Cyclops Smith [35]" x="1" y="-2" z="9" spawntime="60" />
+		<monster name="Cyclops [29]" x="-3" y="3" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1112" centery="1078" centerz="9" radius="7">
+		<monster name="Cyclops Drone [34]" x="4" y="-6" z="9" spawntime="60" />
+		<monster name="Cyclops Smith [35]" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Cyclops [29]" x="3" y="4" z="9" spawntime="60" />
+		<monster name="Cyclops Drone [32]" x="-4" y="7" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1125" centery="1083" centerz="9" radius="5">
+		<monster name="Cyclops Drone [34]" x="-5" y="2" z="9" spawntime="60" />
+		<monster name="Cyclops Smith [35]" x="1" y="4" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="1089" centerz="9" radius="5">
+		<monster name="Cyclops [29]" x="2" y="0" z="9" spawntime="60" />
+		<monster name="Cyclops Drone [30]" x="-1" y="2" z="9" spawntime="60" />
 	</spawn>
 </spawns>
