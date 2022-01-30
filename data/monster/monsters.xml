@@ -27,4 +27,5 @@
 	<monster name="Cyclops Drone [34]" file="monsters/cyclops_drone34.xml" />
 	<monster name="Cyclops Smith [35]" file="monsters/cyclops_smith35.xml" />	
 	<monster name="Koi The Ruthless [50]" file="monsters/koi_the_ruthless50.xml" />
+	<monster name="Bob Stinky [50]" file="monsters/bob_stinky50.xml"/>
 </monsters>

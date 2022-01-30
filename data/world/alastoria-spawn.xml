@@ -232,6 +232,9 @@
 		<monster name="Rotworm [10]" x="-3" y="-2" z="9" spawntime="60" />
 		<monster name="Rotworm [12]" x="2" y="2" z="9" spawntime="60" />
 	</spawn>
+	<spawn centerx="969" centery="1036" centerz="9" radius="5">
+		<monster name="Bob Stinky [50]" x="3" y="-1" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="1117" centery="1064" centerz="9" radius="7">
 		<monster name="Cyclops Smith [35]" x="1" y="-2" z="9" spawntime="60" />
 		<monster name="Cyclops [29]" x="-3" y="3" z="9" spawntime="60" />
